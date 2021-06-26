@@ -2,7 +2,6 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
-
 const int maxn = 30 + 2;
 vector<int> sqs;
 
