@@ -34,4 +34,6 @@ for(auto it=resarr.begin();it!=resarr.end();it++){
     cout<<" key " << it->first;
     cout<<" value "<<it->second<<" ";
 }
+pair<int,int> abc={0,0};
+abc.first=0;
 }
