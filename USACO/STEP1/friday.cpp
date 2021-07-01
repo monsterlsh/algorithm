@@ -5,7 +5,7 @@ LANG: C++
 */
 
 #include <fstream>
-#include <features.h>
+
 #include <stdlib.h>
 #include <string>
 #include <cstring>
