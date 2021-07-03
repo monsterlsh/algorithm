@@ -1,5 +1,18 @@
+
 #include<iostream>
+#include<algorithm>
+#include<cctype>
+#include<map>
+#include<unordered_map>
+#include<vector>
 using namespace std;
+#define RE
+int main(){
+    #ifdef RE
+    freopen("input.in", "r", stdin);
+    freopen("output.out", "w", stdout);
+    #endif
+}
 template<typename T>
 T sum(T*begin,T *end){
     T *p  =  begin;

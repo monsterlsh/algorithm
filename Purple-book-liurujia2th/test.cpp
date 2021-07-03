@@ -11,7 +11,7 @@ int main()
     freopen("input.in", "r", stdin);
     freopen("output.out", "w", stdout);
 #endif
-vector<size_t>nums={1,2,3,};
+/*vector<size_t>nums={1,2,3,};
 vector<size_t>num1={1,2,3};
 size_t a[]={1,2,3};
 size_t b[]={1,2,3};
@@ -35,5 +35,6 @@ for(auto it=resarr.begin();it!=resarr.end();it++){
     cout<<" value "<<it->second<<" ";
 }
 pair<int,int> abc={0,0};
-abc.first=0;
+abc.first=0;*/
+    printf("%10td",1155445);
 }
